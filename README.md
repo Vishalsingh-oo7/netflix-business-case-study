@@ -40,10 +40,9 @@ This project explores **Netflix’s dataset** to analyze viewing trends, content
 
 ## 📊 Key Findings
 
-📈 Number of Netflix titles has grown rapidly since 2010, with a big spike post-2015
-🎥 Movies dominate the platform (\~70%) compared to TV Shows (\~30%)
-🌍 USA, India, and UK are the top producers of Netflix content
-⭐ Drama, Comedy, and Documentaries are the most popular genres
-🔞 Most titles fall under **TV-MA** rating, targeting adult audiences
-
+* 📈 Number of Netflix titles has grown rapidly since 2010, with a big spike post-2015
+* 🎥 Movies dominate the platform (\~70%) compared to TV Shows (\~30%)
+* 🌍 USA, India, and UK are the top producers of Netflix content
+* ⭐ Drama, Comedy, and Documentaries are the most popular genres
+* 🔞 Most titles fall under **TV-MA** rating, targeting adult audiences
 
