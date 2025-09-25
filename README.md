@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project explores **Netflix’s dataset** to analyze viewing trends, content distribution, and customer preferences. Using **Python and SQL**, the objective was to uncover insights about genres, release patterns, and regional content to better understand Netflix’s global strategy.
+This project explores **Netflix’s dataset** to analyze viewing trends, content distribution, and customer preferences. Using **Python**, the objective was to uncover insights about genres, release patterns, and regional content to better understand Netflix’s global strategy.
 
 ## 🛠 Tools & Technologies
 
@@ -18,8 +18,6 @@ This project explores **Netflix’s dataset** to analyze viewing trends, content
 * 📊 **Datasets/** – Raw Netflix dataset (CSV)
 * 📑 **README.md** – Documentation
 
-👉 [View Notebook on GitHub](./Netflix_Project___Vishal_Singh.ipynb)
-🚀 [Run Notebook in Google Colab](https://colab.research.google.com/)
 
 ## 📂 Project Workflow
 
